@@ -15,6 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![An image of @thaarik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thaarik)](https://holopin.io/@thaarik)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Thaarik&icon=4&color=11)](https://visitcount.itsvg.in)
 
